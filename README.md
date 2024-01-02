@@ -12,3 +12,7 @@ GIMP XCF files are also provided if you want to make changes to the wallpapers.
 
 Because this is the screen resolution of my laptop. I might add more resolution options in the future.
 
+## license
+
+[CC BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+
