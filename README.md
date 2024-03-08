@@ -11,7 +11,7 @@ GIMP XCF files are also provided if you want to make changes to the wallpapers.
 
 ## why 1366x768
 
-Because this is the screen resolution of my laptop. I might add more resolution options in the future.
+Because this is the screen resolution of both my laptop and my pc. I might add more resolution options in the future.
 
 ## license
 
