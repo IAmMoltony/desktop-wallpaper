@@ -11,7 +11,7 @@ GIMP XCF files are also provided if you want to make changes to the wallpapers (
 
 ### asterisk
 
-`babanya` doesn't have the xcf file
+`babanya` doesn't have the xcf file because I did not save the XCF file, only exported it.
 
 ## why 1366x768
 
