@@ -1,7 +1,7 @@
 
 # desktop wallpaper
 
-This repo contains some desktop wallpapers that I made. Not all of them are good.
+This repo contains some desktop wallpapers that I made, some of which are purposefully awful.
 
 ## how to use
 
