@@ -13,7 +13,7 @@ GIMP XCF files are also provided if you want to make changes to the wallpapers (
 
 `babanya` doesn't have the xcf file because I did not save the XCF file, only exported it.
 
-For `azubananya` I did save the XCF file but I deleted it accidentally.
+For `azubananya` I did save the XCF file but I deleted it accidentally. oop 🥺👉👈
 
 ## why 1366x768
 
