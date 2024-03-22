@@ -13,6 +13,8 @@ GIMP XCF files are also provided if you want to make changes to the wallpapers (
 
 `babanya` doesn't have the xcf file because I did not save the XCF file, only exported it.
 
+For `azubananya` I did save the XCF file but I deleted it accidentally.
+
 ## why 1366x768
 
 Because this is the screen resolution of both my laptop and my pc. I might add more resolution options in the future. (asterisk)
