@@ -7,7 +7,7 @@ This repo contains some desktop wallpapers that I made, some of which are purpos
 
 You just clone this repo, or download one of the wallpapers by itself and set it as your desktop wallpaper. The process of setting the wallpaper is OS and DE (desktop environment) specific, so you'll have to figure that out yourself.
 
-GIMP XCF files are also provided if you want to make changes to the wallpapers (aterisk).
+GIMP XCF files are also provided if you want to make changes to the wallpapers (asterisk).
 
 ### asterisk
 
@@ -22,6 +22,10 @@ Because this is the screen resolution of both my laptop and my pc. I might add m
 ### asterisk
 
 `azubananya` doesn't follow this arbitrary rule since uhh idk
+
+## do i use these
+
+Yes. These wallpapers are a small part of my giant wallpaper collection (~8979 wallpapers).
 
 ## license
 
