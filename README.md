@@ -27,3 +27,6 @@ Because this is the screen resolution of both my laptop and my pc. I might add m
 
 [CC BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
+### tldr
+
+You can use any of these wallpapers freely and create modifications. When sharing, don't forget to credit.
