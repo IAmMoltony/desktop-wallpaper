@@ -15,15 +15,17 @@ GIMP XCF files are also provided if you want to make changes to the wallpapers (
 
 For `azubananya` I did save the XCF file but I deleted it accidentally. oop 🥺👉👈
 
-## why 1366x768
+## infrequently asked questions
 
-Because this is the screen resolution of both my laptop and my pc. I might add more resolution options in the future. (asterisk)
+### why 1366x768
 
-### asterisk
+Because this is the screen resolution of both my laptop and my pc. I might add more resolution options in the future. (asterisk 2)
+
+#### asterisk 2
 
 `azubananya` doesn't follow this arbitrary rule since uhh idk
 
-## do i use these
+### do i use these
 
 Yes. These wallpapers are a small part of my giant wallpaper collection (8979 wallpapers as of April 2, 2024).
 
