@@ -8,4 +8,8 @@ And guess what during that goofoff phase i designed this wallpaper
 
 ## xfc file wher
 
-i dont have it
+i dont have it (didn't save it)
+
+## DLC!!!!!
+
+`babanya_himself` and `babanya_himself_bw` are BABANYA HIMSELF WITH NO BACKGROUND!!! omg
