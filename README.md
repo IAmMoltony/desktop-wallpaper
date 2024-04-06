@@ -3,6 +3,11 @@
 
 This repo contains some desktop wallpapers that I made, some of which are purposefully awful.
 
+## something to think about
+
+Even though this was originally a container for my desktop wallpapers, it appears that now
+it contains both regular art and desktop wallpapers. Hm
+
 ## how to use
 
 You just clone this repo, or download one of the wallpapers by itself and set it as your desktop wallpaper. The process of setting the wallpaper is OS and DE (desktop environment) specific, so you'll have to figure that out yourself.
