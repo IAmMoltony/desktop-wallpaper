@@ -13,3 +13,9 @@ i dont have it (didn't save it)
 ## DLC!!!!!
 
 `babanya_himself` and `babanya_himself_bw` are BABANYA HIMSELF WITH NO BACKGROUND!!! omg
+
+## the character in the picture
+
+Story time >:)
+
+He's *babanya* not *bananya* he's *babanya* (poorly drawn bananya)
