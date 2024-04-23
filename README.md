@@ -24,7 +24,7 @@ For `azubananya` I did save the XCF file but I deleted it accidentally. oop 🥺
 
 ### why 1366x768
 
-Because this is the screen resolution of both my laptop and my pc. I might add more resolution options in the future. (asterisk 2)
+Because this is the screen resolution of both my laptop and my pc. I might add more resolution options in the future if I need to. (asterisk 2)
 
 #### asterisk 2
 
