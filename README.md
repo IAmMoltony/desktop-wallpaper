@@ -1,7 +1,7 @@
 
 # desktop wallpaper
 
-This repo contains some desktop wallpapers that I made, some of which are purposefully awful.
+This repo contains some desktop wallpapers that I made. Some are awful, which is by design.
 
 ## something to think about
 
