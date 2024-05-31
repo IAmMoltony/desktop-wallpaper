@@ -43,7 +43,7 @@ Because this is the screen resolution of both my laptop and my pc. I might add m
 
 ### do i use these
 
-Yes. These wallpapers are a small part of my giant wallpaper collection (10028 wallpapers as of May 28, 2024).
+Yes. These wallpapers are a small part of my giant wallpaper collection (10046 wallpapers as of May 31, 2024).
 
 ## license
 
