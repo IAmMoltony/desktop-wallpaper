@@ -3,6 +3,17 @@
 
 This repo contains some desktop wallpapers that I made. Some are awful, which is by design.
 
+## `make-symlinks.sh`
+
+This is a shell script that automatically creates symlinks to desktop wallpaper from
+this repository to literally anywhere. Example:
+
+```bash
+$ ~/Downloads/desktop-wallpaper/make-symlinks.sh
+'./arch.png' -> '/home/moltony/Downloads/desktop-walpaper/arch/arch.png
+...etc...
+```
+
 ## something to think about
 
 Even though this was originally a container for my desktop wallpapers, it appears that now
