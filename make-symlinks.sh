@@ -10,10 +10,10 @@ make_dwp_symlink amogus amogus-black.png
 make_dwp_symlink amogus amogus-blue.png
 make_dwp_symlink amogus amogus-brown.png
 make_dwp_symlink amogus amogus-cyan.png
-make_dwp_symlink amogus amogus-green.ong
+make_dwp_symlink amogus amogus-green.png
 make_dwp_symlink amogus amogus-holidays.png
 make_dwp_symlink amogus amogus-lime.png
-make_dwp_symlink amogus amogus-orange.ong
+make_dwp_symlink amogus amogus-orange.png
 make_dwp_symlink amogus amogus-pink.png
 make_dwp_symlink amogus amogus-purple.png
 make_dwp_symlink amogus amogus-white.png
