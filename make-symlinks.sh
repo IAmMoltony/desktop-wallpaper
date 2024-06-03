@@ -3,7 +3,7 @@
 SCRIPTDIR=$(dirname "$0")
 
 make_dwp_symlink() {
-    ln -vs "$SCRIPTDIR/$1/$2" ./$2
+    ln -vsf "$SCRIPTDIR/$1/$2" ./$2
 }
 
 make_dwp_symlink amogus amogus-black.png
@@ -29,7 +29,7 @@ make_dwp_symlink arch arch.png
 
 make_dwp_symlink azubananya bananya_real.png
 
-make_dwp_symlink babanya babanya.png
+make_dwp_symlink babanya bananya.png
 
 make_dwp_symlink bash bash.png
 make_dwp_symlink bash bash_light.png
