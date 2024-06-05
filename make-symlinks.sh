@@ -33,6 +33,8 @@ make_dwp_symlink babanya bananya.png
 
 make_dwp_symlink bash bash.png
 make_dwp_symlink bash bash_light.png
+make_dwp_symlink bash bash_nowords.png
+make_dwp_symlink bash bash_nowords_light.png
 
 make_dwp_symlink casa casa.png
 
