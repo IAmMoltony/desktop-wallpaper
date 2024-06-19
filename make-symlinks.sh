@@ -20,6 +20,9 @@ make_dwp_symlink amogus amogus-white.png
 make_dwp_symlink amogus amogus-yellow.png
 make_dwp_symlink amogus amogus.png
 
+make_dwp_symlink arch arch-noneofetch-btw.png
+make_dwp_symlink arch arch-centerlogo-btw.png
+make_dwp_symlink arch arch-centerlogo-noneofetch-btw.png
 make_dwp_symlink arch arch-centerlogo-noneofetch.png
 make_dwp_symlink arch arch-centerlogo.png
 make_dwp_symlink arch arch-noneofetch.png
