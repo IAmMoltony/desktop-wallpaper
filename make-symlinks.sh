@@ -57,6 +57,8 @@ make_dwp_symlink moonlight moonlight.png
 
 make_dwp_symlink n n.png
 
+make_dwp_symlink osacube osacube.png
+
 make_dwp_symlink refind refind.png
 
 make_dwp_symlink slg silly-little-guy.png
