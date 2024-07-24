@@ -6,6 +6,8 @@ make_dwp_symlink() {
     ln -vsf "$SCRIPTDIR/$1/$2" ./$2
 }
 
+make_dwp_symlink 3dmoltonies 3dmoltonies.png
+
 make_dwp_symlink amogus amogus-black.png
 make_dwp_symlink amogus amogus-blue.png
 make_dwp_symlink amogus amogus-brown.png
