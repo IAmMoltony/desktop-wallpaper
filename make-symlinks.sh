@@ -46,6 +46,7 @@ make_dwp_symlink casa casa.png
 make_dwp_symlink cat cat.png
 
 make_dwp_symlink chairtabletony chairtabletony.png
+make_dwp_symlink chairtabletony chairtabletony_cursed.png
 make_dwp_symlink chairtabletony chairtabletony_eyebrows.png
 make_dwp_symlink chairtabletony chairtabletony_night.png
 make_dwp_symlink chairtabletony chairtabletony_night_eyebrows.png
