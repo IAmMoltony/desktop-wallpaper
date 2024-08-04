@@ -62,6 +62,8 @@ make_dwp_symlink hjkl hjkl.png
 
 make_dwp_symlink linuh linuh.png
 
+make_dwp_symlink misery misery.png
+
 make_dwp_symlink moltonies moltonies.png
 
 make_dwp_symlink moonlight moonlight.png
