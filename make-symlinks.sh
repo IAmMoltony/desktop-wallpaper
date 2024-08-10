@@ -57,7 +57,9 @@ make_dwp_symlink chairtabletony chairtabletony_night_eyebrows.png
 make_dwp_symlink circles circles.png
 
 make_dwp_symlink deertony deertony.png
+make_dwp_symlink deertony deertony_shadow.png
 make_dwp_symlink deertony deertony_shikatony.png
+make_dwp_symlink deertony deertony_shikatony_shadow.png
 
 make_dwp_symlink grub grub.png
 
