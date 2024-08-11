@@ -73,6 +73,7 @@ make_dwp_symlink moltonies moltonies.png
 
 make_dwp_symlink moonlight moonlight.png
 make_dwp_symlink moonlight moonlight_tsukiakari.png
+make_dwp_symlink moonlight moonlight_tsukiakkari-n.png
 
 make_dwp_symlink n n.png
 
