@@ -64,8 +64,14 @@ make_dwp_symlink deertony deertony_shikatony.png
 make_dwp_symlink deertony deertony_shikatony_shadow.png
 
 make_dwp_symlink fedora fedora.png
+make_dwp_symlink fedora fedora_altshadow.png
 make_dwp_symlink fedora fedora_bgblur.png
+make_dwp_symlink fedora fedora_bgblur_altshadow.png
+make_dwp_symlink fedora fedora_bgblur_noshadow.png
 make_dwp_symlink fedora fedora_coolbg.png
+make_dwp_symlink fedora fedora_coolbg_altshadow.png
+make_dwp_symlink fedora fedora_coolbg_noshadow.png
+make_dwp_symlink fedora fedora_noshadow.png
 
 make_dwp_symlink grub grub.png
 
